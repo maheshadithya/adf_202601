@@ -1,0 +1,9 @@
+{
+	"name": "tu-dev-adf-prac",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc50cb33-ff14-4204-9d47-2f418f1978a1",
+		"tenantId": "77fd8eb5-2838-4fbb-9363-3923b00139bd"
+	}
+}
